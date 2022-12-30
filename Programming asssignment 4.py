@@ -12,7 +12,7 @@
 #                      > prints the name in the program if the sequence is matched else prints "No name found"
 #                      
 
-
+#  hao to add characters.txt#########
 
 
 unequalSigns = "><" * 23           ## formatting the program
